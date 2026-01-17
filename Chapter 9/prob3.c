@@ -1,0 +1,1 @@
+// I use array for storing 20 integer value instead of use of structure which is more complex then using array which is easy to write and take less time..
